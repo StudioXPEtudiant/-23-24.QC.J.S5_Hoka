@@ -7379,6 +7379,11 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 69712704}
+    - target: {fileID: 4787381355952037466, guid: 4baf5ad43037c442f96e05f4fb98e3fa,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 36bce9ab6cae8ce43962938466458044, type: 2}
     - target: {fileID: 4787381355952037467, guid: 4baf5ad43037c442f96e05f4fb98e3fa,
         type: 3}
       propertyPath: m_Mesh
@@ -7434,6 +7439,11 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 647265268}
+    - target: {fileID: 4787381356627687400, guid: 4baf5ad43037c442f96e05f4fb98e3fa,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cba66c276aed0874091de1c33eb3950d, type: 2}
     - target: {fileID: 4787381356627687401, guid: 4baf5ad43037c442f96e05f4fb98e3fa,
         type: 3}
       propertyPath: m_Mesh
@@ -7564,6 +7574,11 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 883979174}
+    - target: {fileID: 4787381357128379225, guid: 4baf5ad43037c442f96e05f4fb98e3fa,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c852af001dae0064e9acaa832f1dadb7, type: 2}
     - target: {fileID: 4787381357128379226, guid: 4baf5ad43037c442f96e05f4fb98e3fa,
         type: 3}
       propertyPath: m_Mesh
@@ -7604,6 +7619,11 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 2117137680}
+    - target: {fileID: 4787381357306002295, guid: 4baf5ad43037c442f96e05f4fb98e3fa,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8d530ffe6c4968843806085897955b9d, type: 2}
     - target: {fileID: 4787381357535043428, guid: 4baf5ad43037c442f96e05f4fb98e3fa,
         type: 3}
       propertyPath: m_Mesh
